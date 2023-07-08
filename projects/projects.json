@@ -25,7 +25,7 @@
   {
     "name": "Bank Manangement System",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "https://www.iedunote.com/bank-management",
+    "image": "bank",
     "category": "Web Application",
     "links": {
       "view": "#",
