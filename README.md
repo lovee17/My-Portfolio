@@ -9,8 +9,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Contact me via below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/love-rajput-2100771b9/">
-<img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img>&nsbp
-<img src="https://shorturl.ac/7ardt" width="30"></img>
-</a>
+<img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;<a href="https://www.instagram.com/love__176__/"><img src="/assets/images/insta.jpg" width="30"></img></a>
 
 © 2023 Love Rajput
