@@ -20,12 +20,12 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            document.title = "Love Rajput";
+            $("#favicon").attr("href", "/assets/images/IMG_49561");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "/assets/images/favhand.png");
+            // $("#favicon").attr("href", "/assets/images/favhand.png");
         }
     });
 

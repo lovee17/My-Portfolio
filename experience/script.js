@@ -65,11 +65,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
+        document.title = "Experience | Love Rajput";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Visit Again";
         $("#favicon").attr("href","/assets/images/favhand.png");
     }
 });

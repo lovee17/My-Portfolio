@@ -1,13 +1,13 @@
 [
 
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "4-Eye Protection",
+    "desc": "A project based on Maker-Checker concept applicable in banking system",
+    "image": "MakerChecker",
+    "category": "Java Project",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": "https://github.com/lovee17/Four-Eye-Protection"
     }
   },
 
@@ -15,7 +15,7 @@
     "name": "Food Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
-    "category": "basicweb",
+    "category": "Spring MVC",
     "links": {
       "view": "#",
       "code": "#"
@@ -23,21 +23,43 @@
   },
 
   {
-    "name": "Basic Banking App",
+    "name": "Bank Manangement System",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "image": "bank",
+    "category": "Web Application",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "#",
+      "code": "#"
     }
   },
 
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
+    "name": "Phishing Website Detection",
+    "desc": "It is a project which is used to detect whether a URL is legitimate or not and protect the users from compromising with their data.",
+    "image": "phishing",
+    "category": "Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
     "category": "basicweb",
+    "links": {
+      "view": "https://lovee17.github.io/My-Portfolio/",
+      "code": "https://github.com/lovee17/My-Portfolio"
+    }
+  },
+
+  {
+    "name": "Laptop Price Prediction",
+    "desc": "It is a project which is used to detect price of laptop based on the required configuration of the user.",
+    "image": "phishing",
+    "category": "Machine Learning",
     "links": {
       "view": "#",
       "code": "#"
